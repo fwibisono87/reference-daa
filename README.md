@@ -9,4 +9,4 @@ permalink: /
 
 Hello! This site contains all the references i use on my DAA Homework & Assignments!
 
-* [PR 1](/pr/)
+* [PR 1](pr1)
