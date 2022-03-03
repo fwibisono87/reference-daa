@@ -13,3 +13,4 @@ permalink: pr1
 * [Number 2 part 3](https://www.math.uci.edu/~ndonalds/math2a/notes/2-3.pdf)
 * [Number 2 part 3](https://stackoverflow.com/questions/10376740/what-exactly-does-big-%D3%A8-notation-represent)
 * [Number 2 part 4](https://ita.skanev.com/03/problems/04.html)
+* [Number 5](https://www.simplilearn.com/tutorials/data-structure-tutorial/bubble-sort-algorithm)
